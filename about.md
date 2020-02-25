@@ -3,10 +3,9 @@ layout: page
 title: 欢迎来到我的主页
 ---
 
-自然地理学 博士在读 华东师范大学。
+自然地理学 博士在读
 <p>
 兴趣：气候变化，水动力模型，作物模型，数值分析，软件开发
-
 
 <p>
 
@@ -14,10 +13,7 @@ title: 欢迎来到我的主页
 
 <p>
 
-Mail: xuhanqing2015@gmail.com
-
-
-<p> 
+E-Mail: xuhanqing2015@gmail.com
 
 
 {% include comments.html %}
