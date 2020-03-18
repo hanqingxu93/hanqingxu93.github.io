@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 日常学术资源汇总
+title: "日常学术资源汇总"
 date: 2020-03-18
+description: 远程
 tags: 工具
 ---
 
